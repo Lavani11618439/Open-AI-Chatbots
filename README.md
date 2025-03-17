@@ -50,7 +50,8 @@ streamlit run app.py
 3. Start chatting with the Azure OpenAI chatbot! 🎉
 
 ## 📸 Screenshots
-![Chatbot Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/1d5c3ce9-8889-4e99-889b-42bb2d78e36a)
+
 
 ## 📜 License
 This project is licensed under the **MIT License**.
