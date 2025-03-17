@@ -1,8 +1,9 @@
 # Ignore virtual environments
 .env
+.gitignore
 
 # Ignore other apps
-
+app_1.py
 pdf_extractor.py
 the_extructor_1.py
-app_1.py
+
