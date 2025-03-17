@@ -53,8 +53,8 @@ streamlit run app.py
 ![image](https://github.com/user-attachments/assets/1d5c3ce9-8889-4e99-889b-42bb2d78e36a)
 
 
-## 📜 License
-This project is licensed under the **MIT License**.
+## 📜 License  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
