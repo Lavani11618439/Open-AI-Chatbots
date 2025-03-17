@@ -1,0 +1,7 @@
+# Ignore virtual environments
+.env
+
+# Ignore other apps
+
+pdf_extractor.py
+the_extructor_1.py

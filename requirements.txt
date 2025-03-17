@@ -1,0 +1,8 @@
+# requirements
+pandas
+openai
+streamlit
+python-dotenv
+PyMuPDF
+pytesseract
+pillow
