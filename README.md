@@ -19,7 +19,7 @@ cd your-repo
 
 ### 2️⃣ **Create a Virtual Environment (Optional but Recommended)**
 ```sh
-python -m venv venv
+python -m venv venv / python -m venv env (depending on your preference)
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
